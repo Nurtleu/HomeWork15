@@ -1,0 +1,6 @@
+E:\C#\HW15\HW15\bin\Debug\HW15.exe.config
+E:\C#\HW15\HW15\bin\Debug\HW15.exe
+E:\C#\HW15\HW15\bin\Debug\HW15.pdb
+E:\C#\HW15\HW15\obj\Debug\HW15.csprojResolveAssemblyReference.cache
+E:\C#\HW15\HW15\obj\Debug\HW15.exe
+E:\C#\HW15\HW15\obj\Debug\HW15.pdb

@@ -1,0 +1,2 @@
+E:\C#\HW15\HW15\obj\Debug\HW15.exe
+E:\C#\HW15\HW15\obj\Debug\HW15.pdb
